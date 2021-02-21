@@ -46,7 +46,7 @@ const //database
 ║27 *${prefix}promover [@]*
 ║28 *${prefix}rebaixar*
 ║29 *${prefix}admins*
-║30 *${prefix}marcar2*
+║30 *${prefix}marcar2*║
 ║31 *${prefix}bc [texto]* (ele faz uma ™)
 ║32 *${prefix}marcar3*
 ║33 *${prefix}bloqueados*
@@ -136,7 +136,99 @@ const //database
 ║101 *${prefix}setname [texto]*
 ║102 *${prefix}rebaixar*
 ║103 *${prefix}admins*
+║║10║102 *${prefix}rebaixar*
+║103 *${prefix}admins*
 ║104 *${prefix}marcar*
+║105 *${prefix}marcar2*
+║106 *${prefix}marcar3*
+║107 *${prefix}bemvindo [1/0]*
+║108 *${prefix}grupoinfo*
+║109 *${prefix}bomdia*
+║110 *${prefix}boatarde*
+║111 *${prefix}boanoite*
+║112 *${prefix}setdesc*
+║113 *${prefix}bug [sua mensagem]*
+║
+╠══✪〘 ESPECIFICO DO BOT 〙✪══
+║
+║114 *${prefix}bug [sua mensagem]*
+║115 *${prefix}clonar [@]*
+║116 *${prefix}dono*
+║117 *${prefix}ping [ver velocidade do bot]*
+║118 *${prefix}termux*
+║119 *${prefix}gay [@]*
+║120 *${prefix}wame*
+║121 *${prefix}map (nome)*
+║122 *${prefix}setppbot (marque uma img)*
+║123 *${prefix}pinterest (nome)*
+║124 *${prefix}desligar (so para o dono)*
+║125 *${prefix}timer*
+║
+╠══✪〘 MAIS ALGUNS 〙✪══
+║
+║126 *${prefix}neko*
+║127 *${prefix}ttp [texto]*
+║128 *${prefix}testime*
+║129 *${prefix}tomp3*
+║130 *${prefix}animehug*
+║131 *${prefix}shoturl*
+║132 *${prefix}pokemon*
+║
+║
+╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
+║
+║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
+║ *INSTA: th.darkys*
+║ *WPP: wa.me/+5521997123716*
+║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║
+║  *"Peita ou respeita 🐊2 *${prefix}rebaixar*
+║103 *${prefix}admins*
+║104 *${prefix}marcar*
+║105 *${prefix}marcar2*
+║106 *${prefix}marcar3*
+║107 *${prefix}bemvindo [1/0]*
+║108 *${prefix}grupoinfo*
+║109 *${prefix}bomdia*
+║110 *${prefix}boatarde*
+║111 *${prefix}boanoite*
+║112 *${prefix}setdesc*
+║113 *${prefix}bug [sua mensagem]*
+║
+╠══✪〘 ESPECIFICO DO BOT 〙✪══
+║
+║114 *${prefix}bug [sua mensagem]*
+║115 *${prefix}clonar [@]*
+║116 *${prefix}dono*
+║117 *${prefix}ping [ver velocidade do bot]*
+║118 *${prefix}termux*
+║119 *${prefix}gay [@]*
+║120 *${prefix}wame*
+║121 *${prefix}map (nome)*
+║122 *${prefix}setppbot (marque uma img)*
+║123 *${prefix}pinterest (nome)*
+║124 *${prefix}desligar (so para o dono)*
+║125 *${prefix}timer*
+║
+╠══✪〘 MAIS ALGUNS 〙✪══
+║
+║126 *${prefix}neko*
+║127 *${prefix}ttp [texto]*
+║128 *${prefix}testime*
+║129 *${prefix}tomp3*
+║130 *${prefix}animehug*
+║131 *${prefix}shoturl*
+║132 *${prefix}pokemon*
+║
+║
+╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
+║
+║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
+║ *INSTA: th.darkys*
+║ *WPP: wa.me/+5521997123716*
+║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║
+║  *"Peita ou respeita 🐊104 *${prefix}marcar*
 ║105 *${prefix}marcar2*
 ║106 *${prefix}marcar3*
 ║107 *${prefix}bemvindo [1/0]*
@@ -188,4 +280,3 @@ const //database
 }
 
 //Online.database
-
